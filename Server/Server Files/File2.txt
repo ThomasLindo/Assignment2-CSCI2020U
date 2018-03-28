@@ -1,0 +1,2 @@
+This is the inital server file.
+You can download this file to the client!

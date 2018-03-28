@@ -1,0 +1,2 @@
+This is the inital client file.
+You can upload this file to the server!
